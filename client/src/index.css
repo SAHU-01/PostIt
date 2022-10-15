@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+bode{
+    font-family:'Lato',sans-serif;
+}
+
+.hide-scrollbar::webkit-scrollbar{
+    display:none;
+}
