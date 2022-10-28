@@ -106,16 +106,6 @@ export const categories = [
       "https://i.pinimg.com/236x/46/7c/17/467c17277badb00b638f8ec4da89a358.jpg",
   },
   {
-    name: "cats",
-    image:
-      "https://i.pinimg.com/236x/6c/3c/52/6c3c529e8dadc7cffc4fddedd4caabe1.jpg",
-  },
-  {
-    name: "dogs",
-    image:
-      "https://i.pinimg.com/236x/1b/c8/30/1bc83077e363db1a394bf6a64b071e9f.jpg",
-  },
-  {
     name: "others",
     image:
       "https://i.pinimg.com/236x/2e/63/c8/2e63c82dfd49aca8dccf9de3f57e8588.jpg",
