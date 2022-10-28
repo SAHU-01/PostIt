@@ -52,11 +52,13 @@ const Pin = ({ pin: { postedBy, image, _id, destination, save } }) => {
         onClick={() => navigate(`/pin-detail/${_id}`)}
         className="relative cursor-zoom-in w-auto hover:shadow-lg rounded-lg overflow-hidden transition-all duration-500 ease-in-out"
       >
-        <img
-          className="rounded-lg w-full"
-          alt="user-post"
-          src={urlFor(image).width(250).url()}
-        />
+        {image && (
+          <img
+            className="rounded-lg w-full"
+            alt="user-post"
+            src={urlFor(image).width(250).url()}
+          />
+        )}
         {postHovered && (
           <div
             className="absolute top-0 w-full h-full flex flex-col justify-between p-1 pr-2 pt-2 pb-2 z-50"
