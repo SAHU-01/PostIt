@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/71656941/199233873-86f95080-a9d5-4443-
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="" alt="screenshot" />
+  <!--<img src="" alt="screenshot" /> -->
 </div>
 
 <!-- Env Variables -->
