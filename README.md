@@ -118,7 +118,6 @@ To run this project, you will need to add the following environment variables to
 
 This Project has the following installations:
 
-- 
    
 
 <!-- Run Locally -->
