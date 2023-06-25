@@ -182,7 +182,6 @@ This Project is Deployed on Netlify
 ## :compass: Roadmap
 
 * [x] Todo : LogOut Feature Addition
-* [ ] Todo : Improve Site SEO
 * [ ] Todo : Improve Load Time and implement data optimization for smooth user experience
 
 <!-- What I Learnt -->
